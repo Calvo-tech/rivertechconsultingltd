@@ -778,7 +778,7 @@ nav {
 
 /* Right contact info */
 .nav-right {
-    display: flex;
+    display: contents;
     gap: 15px;
     font-size: 0.9rem;
 }
@@ -958,7 +958,7 @@ nav {
 }
 .scroll-message {
     font-size: 1.2rem;
-    margin-top: 20px;
+    margin: 10px 50px;
     color: #0c016e; /* highlight color */
     font-weight: bold;
     line-height: 1.6;
@@ -1045,4 +1045,5 @@ nav {
         font-size: 0.85rem;
     }
 }
+
 
